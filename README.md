@@ -2,6 +2,13 @@ This repo contains the code for the experiments in the paper ''Efficient Prior C
 
 Please cite as:
 
+@article{akyildiz2024efficient,
+  title={Efficient Prior Calibration From Indirect Data},
+  author={O. Deniz, Akyildiz and Girolami, Mark and Stuart, Andrew M. and Vadeboncoeur, Arnaud},
+  journal={arXiv preprint arXiv:2405.17955},
+  year={2024}
+}
+
 *****
 
 Non-pip dependencies:
